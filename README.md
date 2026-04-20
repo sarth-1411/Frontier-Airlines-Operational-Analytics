@@ -57,8 +57,6 @@ frontier-airlines-analytics/
 │   ├── dim_region.csv
 │   └── dim_employee_group.csv
 │
-├── 📊 Frontier_Analytics_Dashboard.html # Standalone interactive dashboard
-├── 📋 PowerBI_Setup_Guide.md            # Step-by-step PBI guide + 30 DAX measures
 └── 📖 README.md
 ```
 
@@ -306,7 +304,3 @@ All data sourced from the **U.S. Bureau of Transportation Statistics (BTS), Form
 MIT License — see [LICENSE](LICENSE) for details. Data is public domain via BTS/DOT.
 
 ---
-
-<div align="center">
-  <sub>Built with real BTS Form 41 data · Frontier Group Holdings (NASDAQ: ULCC) · 1995–2020</sub>
-</div>
