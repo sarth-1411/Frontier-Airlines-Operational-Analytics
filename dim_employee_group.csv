@@ -1,0 +1,6 @@
+Employee_Group,Category,Display_Name,Sort_Order
+Pilots_CoPilots,Flight Crew,Pilots & Co-Pilots,1
+Flight_Attendants,Flight Crew,Flight Attendants,2
+Maintenance,Technical,Maintenance,3
+Ground_Handling,Ground Ops,Ground Handling,4
+All_Employees,All,All Employees,5

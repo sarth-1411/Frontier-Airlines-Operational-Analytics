@@ -1,0 +1,4 @@
+Fleet_Type,Category,Description,Sort_Order,Dominant_Era
+Small_Narrowbody,Narrowbody,A318/A319 class (~120-140 seats),1,1995-2015
+Large_Narrowbody,Narrowbody,A320/A321 class (~180-220 seats),2,2015-present
+Widebody,Widebody,Wide-body aircraft,3,Limited use
